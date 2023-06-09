@@ -1,0 +1,2 @@
+# AbstractStructure class
+

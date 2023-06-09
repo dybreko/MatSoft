@@ -1,0 +1,2 @@
+#AstractObject class
+
